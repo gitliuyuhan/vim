@@ -1,6 +1,0 @@
-let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =4
-let g:netrw_dirhist_1='/home/lyh/SourceCode/linux-source-3.19.0/linux-source-3.19.0/include/asm-generic'
-let g:netrw_dirhist_2='/home/lyh/.ssh'
-let g:netrw_dirhist_3='/home/lyh/Program/test/test'
-let g:netrw_dirhist_4='/home/lyh/Program/Linux/MessageQuene'
